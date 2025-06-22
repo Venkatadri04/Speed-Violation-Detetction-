@@ -1,0 +1,5 @@
+#opencv-python -- pip install opencv-python
+#numpy -- pip install numpy
+#pandas -- pip install pandas
+#ultralytics -- pip install ultralytics
+#supervision -- pip install supervision
