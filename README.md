@@ -24,13 +24,21 @@ A real-time vehicle speed monitoring system designed to detect and report oversp
 
 ## 📁 Project Structure
 vehicle-speed-detection/
+
 ├── main.py # Main script to run detection and speed estimation
+
 ├── tracker.py # Tracking logic using ByteTrack
+
 ├── utils.py # Utility functions (e.g., speed calculation)
+
 ├── yolov8_weights/ # YOLOv8 model weights (e.g., yolov8n.pt)
+
 ├── videos/ # Input videos
+
 ├── results/ # Output annotated videos
+
 ├── requirements.txt # Python dependencies
+
 └── README.md # Project documentation
 
 ⚙️ Customization
