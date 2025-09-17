@@ -49,15 +49,6 @@ Reference Line Coordinates: Update line_a, line_b in the script
 Alert Handling: Edit socket settings in main.py to match your admin machine's IP/Port
 
 
-📬 Contact
-If you have questions or suggestions, feel free to open an issue or reach out:
-
-Name: Mannepalli Venkata Aakash
-
-Email: mvrrao1970@gmail.com
-
-LinkedIn: https://www.linkedin.com/in/aakash-mannepalli-89a4972a8/
-
 
 
 
